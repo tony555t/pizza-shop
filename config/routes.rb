@@ -10,7 +10,7 @@ Rails.application.routes.draw do
   delete '/restaurants/:id', to: 'restaurants#destroy'
 
   # GET /pizzas
-  #get '/pizzas', to: 'pizzas#index'
+  get '/pizzas', to: 'pizzas#index'
 
   # POST /restaurant_pizzas
  # post '/restaurant_pizzas', to: 'restaurant_pizzas#create'
