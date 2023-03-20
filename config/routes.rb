@@ -13,5 +13,5 @@ Rails.application.routes.draw do
   get '/pizzas', to: 'pizzas#index'
 
   # POST /restaurant_pizzas
- # post '/restaurant_pizzas', to: 'restaurant_pizzas#create'
+ post '/restaurant_pizzas', to: 'restaurant_pizzas#create'
 end
