@@ -50,6 +50,9 @@ bash
 git clone https://github.com/<tony555t>/<pizza-shop>.git
 Then, navigate to the project directory and install the dependencies:
 
+# live link  
+<https://pizza-shop-uhnn.onrender.com>
+
 bash
 
 cd <https://github.com/tony555t/pizza-shop>
